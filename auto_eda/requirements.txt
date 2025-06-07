@@ -1,0 +1,10 @@
+pandas
+plotly
+seaborn
+matplotlib
+ipywidgets
+pandas-profiling
+sweetviz
+scipy
+statsmodels
+streamlit

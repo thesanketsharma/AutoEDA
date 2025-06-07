@@ -8,12 +8,12 @@ setup(
         'pandas', 'plotly', 'seaborn', 'matplotlib', 'ipywidgets',
         'ydata-profiling', 'sweetviz', 'scipy', 'statsmodels', 'streamlit'
     ],
-    author='Your Name',
-    author_email='your.email@example.com',
+    author='Sanket Sharma',
+    author_email='sanketsrsharma@gmail.com',
     description='Automated EDA module and Streamlit app',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/auto_eda',
+    url='https://github.com/thesanketsharma/AutoEDA',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
